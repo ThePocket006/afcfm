@@ -1,0 +1,50 @@
+DEBUG - 2020-04-21 10:13:09 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:13:09 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:13:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:13:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:13:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:13:52 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:13:52 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:13:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:13:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:13:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:14:05 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:14:05 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:14:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:14:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:14:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:14:27 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:14:27 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:14:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:14:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:14:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:14:40 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:14:40 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:14:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:14:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:14:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:14:50 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:14:50 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:14:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:14:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:14:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:17:09 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:17:09 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:17:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:17:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:17:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:19:19 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:19:19 --> No URI present. Default controller set.
+DEBUG - 2020-04-21 10:19:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:19:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:19:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:19:19 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 10:19:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 10:19:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 10:19:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 10:19:19 --> Total execution time: 0.0832
+DEBUG - 2020-04-21 15:30:29 --> UTF-8 Support Enabled
+DEBUG - 2020-04-21 15:30:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-21 15:30:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-04-21 15:30:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-04-21 15:30:29 --> Total execution time: 0.4705
